@@ -1,0 +1,18 @@
+/* Définition de la couleur d'arrière-plan et du texte */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Style du titre */
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+/* Style du paragraphe */
+p {
+    color: #666;
+    font-size: 16px;
+}
